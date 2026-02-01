@@ -1,0 +1,1 @@
+Data is stored using a Medallion architecture at: https://www.kaggle.com/datasets/huynhdat2010/hotel-price-and-attributes-from-booking-com

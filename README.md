@@ -8,7 +8,7 @@ This project focuses on researching the accommodation market in popular coastal 
 - Lê Minh Khôi - ISE-UIT
 
 ## 📖 Data
-- Data Source: Collected directly from the Booking.com booking platform.
+- Data Source: Collected directly from the Booking.com booking platform using Selenium.
 - Collection Method: Dynamic web scraping techniques using the Selenium library in Python were employed to extract data from dynamically loaded structured websites.
 - Scale: Nearly 300,000 raw records (Bronze tier) were collected and refined to approximately 4,000 clean records for model training.
 - Key Features: Hotel name, location, type of accommodation, star rating, room rate, rating, amenities (pool, airport shuttle), distance to center/beach, room details, etc.
